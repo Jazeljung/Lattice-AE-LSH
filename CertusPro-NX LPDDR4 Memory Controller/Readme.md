@@ -4,4 +4,4 @@
 
 #Mailbox: jazel.zhang@latticesemi.com
 
-#Our team is waiting to support you for all the time!
+#Our team is always ready to support you!
